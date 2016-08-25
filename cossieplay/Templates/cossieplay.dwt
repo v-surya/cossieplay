@@ -1,0 +1,66 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Untitled Document</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<link href="../css/MainStyle.css" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+</head>
+
+<body>
+<table border="5" width="100%" height="100%">
+    <!-- TemplateBeginEditable name="EditRegion4" --><th align="center" colspan = "2"><!-- TemplateEndEditable -->
+    	
+   		<h1><a href="../index.html">Cossie Play</a></h1>
+        
+    </th>
+    <tr>
+    	<td width="12%" valign="top"> 
+        
+        	<table width="100%">
+            <tr>
+                <td>
+                <tr>
+                    <td><a href="../index.html" class="colorChange">Home</a></td>
+                     </tr>
+                     <tr>
+                    <td><a href="../cossieplay.html" class="colorChange">What is CosPlay?</a></td>
+                    </tr>
+                    <tr >
+                    <td><a href="../about.html" class="colorChange">About CossiePlay</a></td>
+                     </tr>
+                      <tr >
+                    <td ><a href="../guidelines.html" class="colorChange">Party Guidelines</a></td>
+                     </tr>
+                      <tr >
+                    <td ><a href="../announcements.html" class="colorChange">Annoucements</a></td>
+                     </tr>
+                      
+                      <tr>
+                    <td><a href="../links.html" class="colorChange">Links</a></td>
+                     </tr>
+                      <tr>
+                    <td ><a href="../signup.html" class="colorChange">Sign-up</a></td>
+                    </tr>
+                    <tr >
+                    <td ><a href="../purchase.html" class="colorChange">Purchase</a></td>
+                    </tr>
+                    <tr >
+                    <td ><a href="../contact.html" class="colorChange">Contact us</a></td>
+                     </tr>
+            	</td>
+           </tr>
+   </table>
+        </td>
+        <td valign="top" width="68%" class="spacing" style="font-size:19px"><!-- TemplateBeginEditable name="EditRegion" -->
+          
+       <!-- TemplateEndEditable --> </td>
+    </tr>
+ </table>
+</body>
+</html>
